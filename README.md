@@ -1,5 +1,5 @@
 # CIFAR-10 classification using Custom Resnet
--Mini Project for ECE- GY  7123
+- Mini Project for ECE- GY  7123
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wNUn0GU4D3iwSRSwY3iBSwV2-FPT_Keg?usp=sharing)
 

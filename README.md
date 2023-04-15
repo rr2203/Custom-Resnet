@@ -1,7 +1,7 @@
 # CIFAR-10 classification using Custom Resnet
 -Mini Project for ECE- GY  7123
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreyjasuja/cifar_10_custom_resnet/blob/main/dl_mini_project.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wNUn0GU4D3iwSRSwY3iBSwV2-FPT_Keg?usp=sharing)
 
 This is an implementation of residual learning and shortcut connections for deep neural networks, based on the paper "Deep Residual Learning for Image Recognition" by Kaiming He et al..
 
